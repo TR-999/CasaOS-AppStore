@@ -101,7 +101,7 @@ x-casaos:
   architectures:
     - arm64
   author: CasaOS User
-  category: unknown
+  category: BigBearCasaOS
   description:
     en_us: ""
   developer: unknown
