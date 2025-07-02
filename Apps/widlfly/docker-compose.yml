@@ -1,4 +1,4 @@
-name: wildfly
+name: tr-wildfly
 services:
   wildfly:
     cap_add:
