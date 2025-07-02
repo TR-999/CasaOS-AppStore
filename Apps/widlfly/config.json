@@ -1,0 +1,7 @@
+{
+  "id": "tr-wildfly",
+  "version": "latest",
+  "image": "quay.io/wildfly/wildfly",
+  "youtube": "",
+  "docs_link": ""
+}
