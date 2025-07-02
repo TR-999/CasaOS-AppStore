@@ -1,6 +1,6 @@
 name: tr-wildfly
 services:
-  wildfly:
+  tr-wildfly:
     cap_add:
       - AUDIT_WRITE
       - CHOWN
